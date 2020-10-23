@@ -1,0 +1,267 @@
+E:\Tugas\.NET 1\UAS\TampilanSistemParkir\ProjectSistemParkir\bin\Debug\ProjectSistemParkir.exe
+E:\Tugas\.NET 1\UAS\TampilanSistemParkir\ProjectSistemParkir\bin\Debug\ProjectSistemParkir.pdb
+E:\Tugas\.NET 1\UAS\TampilanSistemParkir\ProjectSistemParkir\bin\Debug\ProjectSistemParkir.xml
+E:\Tugas\.NET 1\UAS\TampilanSistemParkir\ProjectSistemParkir\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Tugas\.NET 1\UAS\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.DatabaseTab.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ManageDatabase.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.FrontMenu.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.Resources.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ReportTab.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.SideButton.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.vbproj.GenerateResource.cache
+E:\Tugas\.NET 1\UAS\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.vbproj.CoreCompileInputs.cache
+E:\Tugas\.NET 1\UAS\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.vbproj.CopyComplete
+E:\Tugas\.NET 1\UAS\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.exe
+E:\Tugas\.NET 1\UAS\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.xml
+E:\Tugas\.NET 1\UAS\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.pdb
+E:\Tugas\.NET 1\UAS\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.InOutTransactionTab.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir._211_MemberForm.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir._212_CardForm.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir._213_ParkingForm.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.vbprojAssemblyReference.cache
+E:\Tugas\.NET 1\UAS\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir._2122_MemberLookUpForm.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.TransactionTopUp.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup11\TampilanSistemParkir\ProjectSistemParkir\bin\Debug\ProjectSistemParkir.exe
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup11\TampilanSistemParkir\ProjectSistemParkir\bin\Debug\ProjectSistemParkir.pdb
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup11\TampilanSistemParkir\ProjectSistemParkir\bin\Debug\ProjectSistemParkir.xml
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup11\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.vbprojAssemblyReference.cache
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup11\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.DatabaseTab.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup11\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.InOutTransactionTab.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup11\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir._211_MemberForm.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup11\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir._2122_MemberLookUpForm.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup11\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir._212_CardForm.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup11\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir._213_ParkingForm.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup11\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ManageDatabase.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup11\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.FrontMenu.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup11\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.Resources.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup11\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ReportTab.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup11\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.SideButton.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup11\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.TransactionTopUp.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup11\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.vbproj.GenerateResource.cache
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup11\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.vbproj.CoreCompileInputs.cache
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup11\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.vbproj.CopyComplete
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup11\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.exe
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup11\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.xml
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup11\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.pdb
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\bin\Debug\ProjectSistemParkir.exe
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\bin\Debug\ProjectSistemParkir.pdb
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\bin\Debug\ProjectSistemParkir.xml
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.vbprojAssemblyReference.cache
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.DatabaseTab.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.InOutTransactionTab.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir._211_MemberForm.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir._2122_MemberLookUpForm.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir._212_CardForm.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir._213_ParkingForm.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ManageDatabase.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.FrontMenu.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.Resources.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ReportTab.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.SideButton.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.TransactionTopUp.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.vbproj.GenerateResource.cache
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.vbproj.CoreCompileInputs.cache
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.vbproj.CopyComplete
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.exe
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.xml
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.pdb
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ScanIn.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ScanOut.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup18Rubik\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\bin\Debug\ProjectSistemParkir.exe
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup18Rubik\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\bin\Debug\ProjectSistemParkir.pdb
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup18Rubik\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\bin\Debug\ProjectSistemParkir.xml
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup18Rubik\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.vbprojAssemblyReference.cache
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup18Rubik\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.DatabaseTab.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup18Rubik\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.InOutTransactionTab.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup18Rubik\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir._211_MemberForm.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup18Rubik\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ParkingTransaction.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup18Rubik\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir._2122_MemberLookUpForm.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup18Rubik\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir._212_CardForm.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup18Rubik\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir._213_ParkingForm.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup18Rubik\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ManageDatabase.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup18Rubik\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.FrontMenu.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup18Rubik\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.Resources.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup18Rubik\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ReportTab.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup18Rubik\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ScanIn.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup18Rubik\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ScanOut.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup18Rubik\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.SideButton.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup18Rubik\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.TransactionTopUp.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup18Rubik\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.vbproj.GenerateResource.cache
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup18Rubik\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.vbproj.CoreCompileInputs.cache
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup18Rubik\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.vbproj.CopyComplete
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup18Rubik\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.exe
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup18Rubik\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.xml
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup18Rubik\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.pdb
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup19\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\bin\Debug\ProjectSistemParkir.exe
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup19\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\bin\Debug\ProjectSistemParkir.pdb
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup19\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\bin\Debug\ProjectSistemParkir.xml
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup19\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.vbprojAssemblyReference.cache
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup19\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.DatabaseTab.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup19\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.InOutTransactionTab.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup19\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir._211_MemberForm.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup19\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.Dashboard.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup19\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ParkingTransactionReport.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup19\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir._2122_MemberLookUpForm.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup19\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir._212_CardForm.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup19\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir._213_ParkingForm.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup19\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ManageDatabase.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup19\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.FrontMenu.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup19\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.Resources.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup19\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ReportTab.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup19\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ScanIn.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup19\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ScanOut.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup19\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.SideButton.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup19\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.TopUpTransactionReport.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup19\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.TransactionTopUp.resources
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup19\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.vbproj.GenerateResource.cache
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup19\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.vbproj.CoreCompileInputs.cache
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup19\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.vbproj.CopyComplete
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup19\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.exe
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup19\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.xml
+E:\Tugas\.NET 1\UAS\TampilanSistemParkirBackup19\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.pdb
+D:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\bin\Debug\ProjectSistemParkir.exe
+D:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\bin\Debug\ProjectSistemParkir.pdb
+D:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\bin\Debug\ProjectSistemParkir.xml
+D:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.vbprojAssemblyReference.cache
+D:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.DatabaseTab.resources
+D:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.InOutTransactionTab.resources
+D:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir._211_MemberForm.resources
+D:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.Dashboard.resources
+D:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ParkingTransactionReport.resources
+D:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir._2122_MemberLookUpForm.resources
+D:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir._212_CardForm.resources
+D:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir._213_ParkingForm.resources
+D:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ManageDatabase.resources
+D:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.FrontMenu.resources
+D:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.Resources.resources
+D:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ReportTab.resources
+D:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ScanIn.resources
+D:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ScanOut.resources
+D:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.SideButton.resources
+D:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.TopUpTransactionReport.resources
+D:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.TransactionTopUp.resources
+D:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.vbproj.GenerateResource.cache
+D:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.vbproj.CoreCompileInputs.cache
+D:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.vbproj.CopyComplete
+D:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.exe
+D:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.xml
+D:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.pdb
+D:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\bin\Debug\itextsharp.dll
+D:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\bin\Debug\MessagingToolkit.QRCode.dll
+D:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\bin\Debug\MySql.Data.DLL
+D:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\bin\Debug\WebCam_Capture.dll
+L:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\bin\Debug\ProjectSistemParkir.exe
+L:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\bin\Debug\ProjectSistemParkir.pdb
+L:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\bin\Debug\ProjectSistemParkir.xml
+L:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.vbprojAssemblyReference.cache
+L:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.DatabaseTab.resources
+L:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.InOutTransactionTab.resources
+L:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir._211_MemberForm.resources
+L:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.Dashboard.resources
+L:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ParkingTransactionReport.resources
+L:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir._2122_MemberLookUpForm.resources
+L:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir._212_CardForm.resources
+L:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir._213_ParkingForm.resources
+L:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ManageDatabase.resources
+L:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.FrontMenu.resources
+L:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.Resources.resources
+L:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ReportTab.resources
+L:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ScanIn.resources
+L:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ScanOut.resources
+L:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.SideButton.resources
+L:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.TopUpTransactionReport.resources
+L:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.TransactionTopUp.resources
+L:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.vbproj.GenerateResource.cache
+L:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.vbproj.CoreCompileInputs.cache
+L:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.vbproj.CopyComplete
+L:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.exe
+L:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.xml
+L:\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.pdb
+D:\Folder Acel\Kuliah\Semester 7\NET I\Final Project .NET\Tampilan\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.vbprojAssemblyReference.cache
+D:\Folder Acel\Kuliah\Semester 7\NET I\Final Project .NET\Tampilan\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.exe
+D:\Folder Acel\Kuliah\Semester 7\NET I\Final Project .NET\Tampilan\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.xml
+D:\Folder Acel\Kuliah\Semester 7\NET I\Final Project .NET\Tampilan\TampilanSistemParkirBackup20\TampilanSistemParkirBackup20\TampilanSistemParkirBackup15\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.pdb
+D:\Folder Acel\Kuliah\Semester 7\NET I\Final Project .NET\Tampilan\TampilanSistemParkir\ProjectSistemParkir\bin\Debug\ProjectSistemParkir.exe
+D:\Folder Acel\Kuliah\Semester 7\NET I\Final Project .NET\Tampilan\TampilanSistemParkir\ProjectSistemParkir\bin\Debug\ProjectSistemParkir.pdb
+D:\Folder Acel\Kuliah\Semester 7\NET I\Final Project .NET\Tampilan\TampilanSistemParkir\ProjectSistemParkir\bin\Debug\ProjectSistemParkir.xml
+D:\Folder Acel\Kuliah\Semester 7\NET I\Final Project .NET\Tampilan\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.vbprojAssemblyReference.cache
+D:\Folder Acel\Kuliah\Semester 7\NET I\Final Project .NET\Tampilan\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.DatabaseTab.resources
+D:\Folder Acel\Kuliah\Semester 7\NET I\Final Project .NET\Tampilan\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.InOutTransactionTab.resources
+D:\Folder Acel\Kuliah\Semester 7\NET I\Final Project .NET\Tampilan\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir._211_MemberForm.resources
+D:\Folder Acel\Kuliah\Semester 7\NET I\Final Project .NET\Tampilan\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.Dashboard.resources
+D:\Folder Acel\Kuliah\Semester 7\NET I\Final Project .NET\Tampilan\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ParkingTransactionReport.resources
+D:\Folder Acel\Kuliah\Semester 7\NET I\Final Project .NET\Tampilan\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir._2122_MemberLookUpForm.resources
+D:\Folder Acel\Kuliah\Semester 7\NET I\Final Project .NET\Tampilan\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir._212_CardForm.resources
+D:\Folder Acel\Kuliah\Semester 7\NET I\Final Project .NET\Tampilan\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir._213_ParkingForm.resources
+D:\Folder Acel\Kuliah\Semester 7\NET I\Final Project .NET\Tampilan\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ManageDatabase.resources
+D:\Folder Acel\Kuliah\Semester 7\NET I\Final Project .NET\Tampilan\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.FrontMenu.resources
+D:\Folder Acel\Kuliah\Semester 7\NET I\Final Project .NET\Tampilan\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.Resources.resources
+D:\Folder Acel\Kuliah\Semester 7\NET I\Final Project .NET\Tampilan\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ReportTab.resources
+D:\Folder Acel\Kuliah\Semester 7\NET I\Final Project .NET\Tampilan\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ScanIn.resources
+D:\Folder Acel\Kuliah\Semester 7\NET I\Final Project .NET\Tampilan\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ScanOut.resources
+D:\Folder Acel\Kuliah\Semester 7\NET I\Final Project .NET\Tampilan\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.SideButton.resources
+D:\Folder Acel\Kuliah\Semester 7\NET I\Final Project .NET\Tampilan\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.TopUpTransactionReport.resources
+D:\Folder Acel\Kuliah\Semester 7\NET I\Final Project .NET\Tampilan\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.TransactionTopUp.resources
+D:\Folder Acel\Kuliah\Semester 7\NET I\Final Project .NET\Tampilan\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.vbproj.GenerateResource.cache
+D:\Folder Acel\Kuliah\Semester 7\NET I\Final Project .NET\Tampilan\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.vbproj.CoreCompileInputs.cache
+D:\Folder Acel\Kuliah\Semester 7\NET I\Final Project .NET\Tampilan\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.vbproj.CopyComplete
+D:\Folder Acel\Kuliah\Semester 7\NET I\Final Project .NET\Tampilan\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.exe
+D:\Folder Acel\Kuliah\Semester 7\NET I\Final Project .NET\Tampilan\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.xml
+D:\Folder Acel\Kuliah\Semester 7\NET I\Final Project .NET\Tampilan\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.pdb
+C:\Users\Marcel Lo\Desktop\TampilanSistemParkir\ProjectSistemParkir\bin\Debug\ProjectSistemParkir.exe
+C:\Users\Marcel Lo\Desktop\TampilanSistemParkir\ProjectSistemParkir\bin\Debug\ProjectSistemParkir.pdb
+C:\Users\Marcel Lo\Desktop\TampilanSistemParkir\ProjectSistemParkir\bin\Debug\ProjectSistemParkir.xml
+C:\Users\Marcel Lo\Desktop\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.vbprojAssemblyReference.cache
+C:\Users\Marcel Lo\Desktop\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.DatabaseTab.resources
+C:\Users\Marcel Lo\Desktop\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.InOutTransactionTab.resources
+C:\Users\Marcel Lo\Desktop\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir._211_MemberForm.resources
+C:\Users\Marcel Lo\Desktop\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.Dashboard.resources
+C:\Users\Marcel Lo\Desktop\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ParkingTransactionReport.resources
+C:\Users\Marcel Lo\Desktop\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir._2122_MemberLookUpForm.resources
+C:\Users\Marcel Lo\Desktop\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir._212_CardForm.resources
+C:\Users\Marcel Lo\Desktop\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir._213_ParkingForm.resources
+C:\Users\Marcel Lo\Desktop\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ManageDatabase.resources
+C:\Users\Marcel Lo\Desktop\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.FrontMenu.resources
+C:\Users\Marcel Lo\Desktop\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.Resources.resources
+C:\Users\Marcel Lo\Desktop\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ReportTab.resources
+C:\Users\Marcel Lo\Desktop\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ScanIn.resources
+C:\Users\Marcel Lo\Desktop\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ScanOut.resources
+C:\Users\Marcel Lo\Desktop\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.SideButton.resources
+C:\Users\Marcel Lo\Desktop\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.TopUpTransactionReport.resources
+C:\Users\Marcel Lo\Desktop\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.TransactionTopUp.resources
+C:\Users\Marcel Lo\Desktop\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.vbproj.GenerateResource.cache
+C:\Users\Marcel Lo\Desktop\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.vbproj.CoreCompileInputs.cache
+C:\Users\Marcel Lo\Desktop\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.vbproj.CopyComplete
+C:\Users\Marcel Lo\Desktop\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.exe
+C:\Users\Marcel Lo\Desktop\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.xml
+C:\Users\Marcel Lo\Desktop\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.pdb
+D:\Folder Acel\Kuliah\Semester 7\NET I\Tugas Sistem Parkir\TampilanSistemParkir\ProjectSistemParkir\bin\Debug\ProjectSistemParkir.exe
+D:\Folder Acel\Kuliah\Semester 7\NET I\Tugas Sistem Parkir\TampilanSistemParkir\ProjectSistemParkir\bin\Debug\ProjectSistemParkir.pdb
+D:\Folder Acel\Kuliah\Semester 7\NET I\Tugas Sistem Parkir\TampilanSistemParkir\ProjectSistemParkir\bin\Debug\ProjectSistemParkir.xml
+D:\Folder Acel\Kuliah\Semester 7\NET I\Tugas Sistem Parkir\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.vbprojAssemblyReference.cache
+D:\Folder Acel\Kuliah\Semester 7\NET I\Tugas Sistem Parkir\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.DatabaseTab.resources
+D:\Folder Acel\Kuliah\Semester 7\NET I\Tugas Sistem Parkir\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.InOutTransactionTab.resources
+D:\Folder Acel\Kuliah\Semester 7\NET I\Tugas Sistem Parkir\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir._211_MemberForm.resources
+D:\Folder Acel\Kuliah\Semester 7\NET I\Tugas Sistem Parkir\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.Dashboard.resources
+D:\Folder Acel\Kuliah\Semester 7\NET I\Tugas Sistem Parkir\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ParkingTransactionReport.resources
+D:\Folder Acel\Kuliah\Semester 7\NET I\Tugas Sistem Parkir\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir._2122_MemberLookUpForm.resources
+D:\Folder Acel\Kuliah\Semester 7\NET I\Tugas Sistem Parkir\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir._212_CardForm.resources
+D:\Folder Acel\Kuliah\Semester 7\NET I\Tugas Sistem Parkir\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir._213_ParkingForm.resources
+D:\Folder Acel\Kuliah\Semester 7\NET I\Tugas Sistem Parkir\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ManageDatabase.resources
+D:\Folder Acel\Kuliah\Semester 7\NET I\Tugas Sistem Parkir\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.FrontMenu.resources
+D:\Folder Acel\Kuliah\Semester 7\NET I\Tugas Sistem Parkir\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.Resources.resources
+D:\Folder Acel\Kuliah\Semester 7\NET I\Tugas Sistem Parkir\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ReportTab.resources
+D:\Folder Acel\Kuliah\Semester 7\NET I\Tugas Sistem Parkir\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ScanIn.resources
+D:\Folder Acel\Kuliah\Semester 7\NET I\Tugas Sistem Parkir\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.ScanOut.resources
+D:\Folder Acel\Kuliah\Semester 7\NET I\Tugas Sistem Parkir\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.SideButton.resources
+D:\Folder Acel\Kuliah\Semester 7\NET I\Tugas Sistem Parkir\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.TopUpTransactionReport.resources
+D:\Folder Acel\Kuliah\Semester 7\NET I\Tugas Sistem Parkir\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.TransactionTopUp.resources
+D:\Folder Acel\Kuliah\Semester 7\NET I\Tugas Sistem Parkir\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.vbproj.GenerateResource.cache
+D:\Folder Acel\Kuliah\Semester 7\NET I\Tugas Sistem Parkir\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.vbproj.CoreCompileInputs.cache
+D:\Folder Acel\Kuliah\Semester 7\NET I\Tugas Sistem Parkir\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.vbproj.CopyComplete
+D:\Folder Acel\Kuliah\Semester 7\NET I\Tugas Sistem Parkir\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.exe
+D:\Folder Acel\Kuliah\Semester 7\NET I\Tugas Sistem Parkir\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.xml
+D:\Folder Acel\Kuliah\Semester 7\NET I\Tugas Sistem Parkir\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.pdb
+D:\Folder Acel\Kuliah\Semester 7\NET I\Final Project .NET\Sistem Parkir Final\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.exe
+D:\Folder Acel\Kuliah\Semester 7\NET I\Final Project .NET\Sistem Parkir Final\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.xml
+D:\Folder Acel\Kuliah\Semester 7\NET I\Final Project .NET\Sistem Parkir Final\TampilanSistemParkir\ProjectSistemParkir\obj\x86\Debug\ProjectSistemParkir.pdb

@@ -1,0 +1,421 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6B0EC7FD-E522-4B6C-9C87-A58DF16F5C76}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>ProjectSistemParkir.My.MyApplication</StartupObject>
+    <RootNamespace>ProjectSistemParkir</RootNamespace>
+    <AssemblyName>ProjectSistemParkir</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>ProjectSistemParkir.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>ProjectSistemParkir.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\Project .Net\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp">
+      <HintPath>..\..\..\..\..\NET dll\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="MessagingToolkit.QRCode">
+      <HintPath>..\..\..\..\..\NET dll\MessagingToolkit.QRCode.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data">
+      <HintPath>..\..\..\..\..\NET dll\MySql.Data.DLL</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="WebCam_Capture">
+      <HintPath>..\..\..\..\..\NET dll\WebCam_Capture.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="211_MemberForm.Designer.vb">
+      <DependentUpon>211_MemberForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="211_MemberForm.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Dashboard.Designer.vb">
+      <DependentUpon>Dashboard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Koneksi.vb" />
+    <Compile Include="Member.vb" />
+    <Compile Include="ParkingTransactionReport.Designer.vb">
+      <DependentUpon>ParkingTransactionReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ParkingTransactionReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopUpSeachMember.Designer.vb">
+      <DependentUpon>PopUpSeachMember.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PopUpSeachMember.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="212_CardForm.Designer.vb">
+      <DependentUpon>212_CardForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="212_CardForm.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="213_ParkingForm.Designer.vb">
+      <DependentUpon>213_ParkingForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="213_ParkingForm.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="20_DatabaseTab.Designer.vb">
+      <DependentUpon>20_DatabaseTab.vb</DependentUpon>
+    </Compile>
+    <Compile Include="20_DatabaseTab.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="10_InOutTransactionTab.designer.vb">
+      <DependentUpon>10_InOutTransactionTab.vb</DependentUpon>
+    </Compile>
+    <Compile Include="10_InOutTransactionTab.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="21_ManageDatabase.Designer.vb">
+      <DependentUpon>21_ManageDatabase.vb</DependentUpon>
+    </Compile>
+    <Compile Include="21_ManageDatabase.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="00_Menu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="00_Menu.Designer.vb">
+      <DependentUpon>00_Menu.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="30_ReportTab.Designer.vb">
+      <DependentUpon>30_ReportTab.vb</DependentUpon>
+    </Compile>
+    <Compile Include="30_ReportTab.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ScanIn.Designer.vb">
+      <DependentUpon>ScanIn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ScanIn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ScanOut.Designer.vb">
+      <DependentUpon>ScanOut.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ScanOut.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SideButton.Designer.vb">
+      <DependentUpon>SideButton.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SideButton.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Tiket.vb" />
+    <Compile Include="TopUpTransactionReport.Designer.vb">
+      <DependentUpon>TopUpTransactionReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TopUpTransactionReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TransactionTopUp.Designer.vb">
+      <DependentUpon>TransactionTopUp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TransactionTopUp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="20_DatabaseTab.resx">
+      <DependentUpon>20_DatabaseTab.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="10_InOutTransactionTab.resx">
+      <DependentUpon>10_InOutTransactionTab.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="211_MemberForm.resx">
+      <DependentUpon>211_MemberForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard.resx">
+      <DependentUpon>Dashboard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ParkingTransactionReport.resx">
+      <DependentUpon>ParkingTransactionReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopUpSeachMember.resx">
+      <DependentUpon>PopUpSeachMember.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="212_CardForm.resx">
+      <DependentUpon>212_CardForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="213_ParkingForm.resx">
+      <DependentUpon>213_ParkingForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="21_ManageDatabase.resx">
+      <DependentUpon>21_ManageDatabase.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="00_Menu.resx">
+      <DependentUpon>00_Menu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="30_ReportTab.resx">
+      <DependentUpon>30_ReportTab.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ScanIn.resx">
+      <DependentUpon>ScanIn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ScanOut.resx">
+      <DependentUpon>ScanOut.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SideButton.resx">
+      <DependentUpon>SideButton.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TopUpTransactionReport.resx">
+      <DependentUpon>TopUpTransactionReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TransactionTopUp.resx">
+      <DependentUpon>TransactionTopUp.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Move1_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MENU GIF MEMBER 175.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Top Up.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Top Up1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Move2_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete Database_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save Close_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save as_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Double Right_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Forward_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\parking_1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\parking-in-kavala.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chevron Left_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chevron Right_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Double Left_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add Database_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Menu_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Find User Male2_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search_100px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Multiply_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Coins_104px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Restart_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Checkout_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home_96px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QR Code_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QR Code_350px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QR Code_120px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Change Theme_120apx.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Change Theme_120apx1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\liquid-preloader_dribbble_v2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fine Print_120pxa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Print_120pxa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Restart_96px1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
